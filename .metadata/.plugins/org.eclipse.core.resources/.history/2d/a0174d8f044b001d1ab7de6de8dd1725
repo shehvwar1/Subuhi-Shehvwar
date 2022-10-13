@@ -1,0 +1,12 @@
+package com.java.labactivity;
+
+public class NumberPattern {
+	public static void numberPattern() {
+		Scanner sc = new Scanner(System.in);
+	}
+	public static void main(String[] args) {
+		numberPattern();
+
+	}
+
+}

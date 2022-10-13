@@ -1,0 +1,15 @@
+package com.java.labactivity;
+
+public class CubeOfNumbers {
+
+	public static void cubeOfNumbers()
+	{
+		Scanner sc = new Scanner(System.in);
+		System.out.println("Enetr any number for cubing upto");
+	}
+	public static void main(String[] args) {
+		cubeOfNumbers();
+
+	}
+
+}

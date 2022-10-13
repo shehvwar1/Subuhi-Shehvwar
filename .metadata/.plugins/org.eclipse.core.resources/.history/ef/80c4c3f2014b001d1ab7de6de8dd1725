@@ -1,0 +1,54 @@
+package com.java.labactivity;
+
+import java.util.Scanner;
+
+public class DisplayMonth {
+	public void displayMonth()
+	{
+		Scanner sc = new Scanner(System.in);
+		System.out.println("Enter any month no.");
+		int month = sc.nextInt();
+		switch(month){
+		case 1:
+			System.out.println("January");
+			break;
+		case 2:
+			System.out.println("Febrauary");
+			break;
+		case 3:
+			System.out.println("March");
+			break;
+		case 1:
+			System.out.println("January");
+			break;
+		case 1:
+			System.out.println("January");
+			break;
+		case 1:
+			System.out.println("January");
+			break;
+		case 1:
+			System.out.println("January");
+			break;
+		case 1:
+			System.out.println("January");
+			break;
+		case 1:
+			System.out.println("January");
+			break;
+		case 1:
+			System.out.println("January");
+			break;
+		case 1:
+			System.out.println("January");
+			break;
+			
+		}
+		
+	}
+
+	public static void main(String[] args) {
+		
+	}
+
+}

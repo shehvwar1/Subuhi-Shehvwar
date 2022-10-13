@@ -1,0 +1,24 @@
+package com.java.labactivity;
+
+import java.util.Scanner;
+
+public class CubeOfNumbers {
+
+	public static int cubeOfNumbers()
+	{
+		Scanner sc = new Scanner(System.in);
+		System.out.println("Enetr any number for cubing upto");
+		int num = sc.nextInt();
+		int res = 0;
+		for(int i=0; i<=num; i++)
+		{
+			res = res+(num*num*num);
+		}
+		return res;
+	}
+	public static void main(String[] args) {
+		cubeOfNumbers();
+
+	}
+
+}

@@ -1,0 +1,12 @@
+package com.java.labactivity;
+
+public class NumberPattern {
+	public static void numberPattern() {
+		
+	}
+	public static void main(String[] args) {
+		numberPattern();
+
+	}
+
+}

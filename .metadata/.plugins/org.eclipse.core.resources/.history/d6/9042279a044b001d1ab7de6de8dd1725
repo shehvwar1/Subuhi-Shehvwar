@@ -1,0 +1,13 @@
+package com.java.labactivity;
+
+public class NumberPattern {
+	public static void numberPattern() {
+		Scanner sc = new Scanner(System.in);
+		System.out.println("enter the number of rows");
+	}
+	public static void main(String[] args) {
+		numberPattern();
+
+	}
+
+}

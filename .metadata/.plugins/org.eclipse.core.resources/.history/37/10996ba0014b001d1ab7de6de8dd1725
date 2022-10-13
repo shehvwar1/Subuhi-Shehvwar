@@ -1,0 +1,17 @@
+package com.java.labactivity;
+
+import java.util.Scanner;
+
+public class DisplayMonth {
+	public void displayMonth()
+	{
+		Scanner sc = new Scanner(System.in);
+		System.out.println("Enter any month no.");
+		
+	}
+
+	public static void main(String[] args) {
+		
+	}
+
+}

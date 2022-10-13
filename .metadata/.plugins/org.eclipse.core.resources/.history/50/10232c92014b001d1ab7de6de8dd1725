@@ -1,0 +1,13 @@
+package com.java.labactivity;
+
+public class DisplayMonth {
+	public void displayMonth()
+	{
+		Scanner sc = new Scanner(System.in);
+	}
+
+	public static void main(String[] args) {
+		
+	}
+
+}
